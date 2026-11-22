@@ -1,4 +1,5 @@
-package com.timesync.app
+package com.timesync.app<rsup indexInItemList="0" type="image">图</rsup>
+
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
